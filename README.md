@@ -1,5 +1,6 @@
 ## Hi there 👋
-# Bienvenue sur mon Githup(H1)
+# Bienvenue sur mon Githup
+Je suis en première année de Bachelor IT sur la plateforme. Mon objectif est de décrocher une alternance en tant qu'Administrateur Système et Réseau ou Analyste Sécurité en Cybersécurité
 ## Titre secondaire (H2)
 ### Sous-titre (H3)
 
