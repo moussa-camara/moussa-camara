@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Bienvenue sur mon Githup
-Je suis en première année de Bachelor IT sur la plateforme. Mon objectif est de décrocher une alternance en tant qu'Administrateur Système, Réseau et Sécurité en Cybersécurité
+Je suis en deuxième année de Bachelor IT sur la plateforme. Mon objectif est de décrocher une alternance en tant qu'Administrateur Système, Réseau et Sécurité en Cybersécurité
 ## Titre secondaire (H2)
 ### Sous-titre (H3)
 
