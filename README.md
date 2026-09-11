@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Moussa Camara
 
-🎓 **Étudiant en 3ᵉ année de Bachelor IT à La Plateforme – Marseille**, spécialisé en **Administration Systèmes & Réseaux**.
+Étudiant Bachelor IT | Administration Systèmes & Réseaux | 🐧 Linux • Docker • Kubernetes • Ansible • Terraform | 🔐 Cybersécurité | Recherche alternance 2026.
 
 Je suis actuellement en formation dans le domaine des **infrastructures IT, des réseaux, des systèmes et de la cybersécurité**, avec une approche principalement orientée pratique et mise en situation.
 
