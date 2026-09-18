@@ -1,191 +1,84 @@
-# 👋 Bonjour, je suis Moussa Camara
+<h1 align="center">👋 Salut, je suis Moussa Camara</h1>
 
-Étudiant Bachelor IT | Administration Systèmes & Réseaux |  Linux • Docker • Kubernetes • Ansible • Terraform |  Cybersécurité | Recherche alternance 2026.
+<p align="center">
+<b>Étudiant Bachelor IT · Administration Systèmes & Réseaux · Cybersécurité</b><br>
+🎯 En recherche d'une <b>alternance à partir de septembre 2026</b>
+</p>
 
-Je suis actuellement en formation dans le domaine des **infrastructures IT, des réseaux, des systèmes et de la cybersécurité**, avec une approche principalement orientée pratique et mise en situation.
-
-🎯 **Mon objectif :** intégrer une entreprise en tant qu'**Administrateur Systèmes & Réseaux**, avec une évolution vers les métiers de la **sécurité des infrastructures et de la cybersécurité**.
-
----
-
-## 🖥️ Compétences
-
-### 🐧 Systèmes
-
-* Linux / Debian
-* Windows
-* Administration de systèmes
-* Services réseau
-* Bash & automatisation
-* Gestion des utilisateurs et des permissions
-
-### 🌐 Réseaux
-
-* TCP/IP
-* Adressage IP
-* DNS / DHCP
-* VLAN
-* Routage
-* Analyse réseau avec **Wireshark**
-
-### ☁️ Virtualisation & infrastructures
-
-* VMware Workstation
-* Création et administration de machines virtuelles
-* Déploiement d'environnements Linux
-* Open VM Tools
-* Infrastructure réseau virtualisée
-
-### 🐳 Conteneurisation & orchestration
-
-* Docker
-* Docker Swarm
-* K3s / Kubernetes
-* Nginx
-* MariaDB
-* Registry privée
-* NFS
-* Haute disponibilité et notions de PCA/PRA
-
-### 🔐 Cybersécurité
-
-* Sécurisation des systèmes et réseaux
-* Bonnes pratiques de sécurité
-* Analyse et surveillance réseau
-* Gestion des accès et permissions
-* Notions de **RGPD**
-* Notions de **NIS2**
-* Sensibilisation aux risques liés aux infrastructures IT
-
-### ⚙️ Automatisation & DevOps
-
-* Bash
-* Git / GitHub
-* GitHub Actions
-* Ansible
-* Terraform
-* CI/CD
-* Déploiement automatisé
+<p align="center">
+<a href="https://www.linkedin.com/in/moussa-camara-mc/"><img src="https://img.shields.io/badge/LinkedIn-moussa--camara--mc-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:moussa.camara@laplateforme.io"><img src="https://img.shields.io/badge/Email-moussa.camara%40laplateforme.io-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Mobile-Bouches--du--Rhône%20%26%20régions%20voisines-informational?style=flat" />
+</p>
 
 ---
 
-## 🚀 Projets réalisés
+## 🎯 Objectif
 
-### 🐳 Infrastructure Docker Swarm
+Je termine ma 3ème année de Bachelor IT, orientée **infrastructures, réseaux et cybersécurité**, avec une approche pratique : chaque compétence ci-dessous a été testée sur des labs que j'ai montés moi-même (voir la section Projets).
 
-Mise en place d'une infrastructure Docker Swarm comprenant :
-
-* 1 nœud manager
-* Plusieurs workers
-* Registry privée
-* Nginx
-* PHP
-* MariaDB
-* Code-server
-* Stockage NFS
-* Tests de haute disponibilité
-* Scénarios de panne et reprise
+Je recherche une **alternance d'Administrateur Systèmes & Réseaux**, avec une appétence pour la **sécurité des infrastructures**.
 
 ---
 
-### ☸️ Cluster K3s
+## 🛠️ Stack technique
 
-Mise en place d'un environnement Kubernetes léger avec **K3s** :
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+</p>
 
-* Cluster multi-nœuds
-* Nodes control-plane / workers
-* Déploiement de services
-* Nginx / Apache
-* MariaDB
-* ConfigMaps
-* Secrets
-* YAML Kubernetes
-* Tests de fonctionnement du cluster
-
----
-
-### 🏗️ Infrastructure avec Terraform
-
-Automatisation de la création de machines virtuelles avec **Terraform** et VMware Workstation.
-
-Travail réalisé autour de :
-
-* Infrastructure as Code
-* Variables Terraform
-* Provider VMware Workstation
-* Création de machines virtuelles Debian
-* Configuration réseau
-* Préparation d'environnements de laboratoire
+| Domaine | Compétences |
+|---|---|
+| 🐧 **Systèmes** | Linux/Debian, Windows, administration, gestion utilisateurs & permissions, automatisation Bash |
+| 🌐 **Réseaux** | TCP/IP, adressage IP, DNS/DHCP, VLAN, routage, analyse réseau (Wireshark) |
+| ☁️ **Virtualisation** | VMware Workstation, création/administration de VM, environnements Linux, Open VM Tools |
+| 🐳 **Conteneurisation** | Docker, Docker Swarm, K3s/Kubernetes, Nginx, MariaDB, registry privée, NFS, haute disponibilité |
+| 🔐 **Cybersécurité** | Sécurisation systèmes & réseaux, surveillance réseau, gestion des accès, notions RGPD / NIS2 |
+| ⚙️ **DevOps** | Git/GitHub, GitHub Actions, Ansible, Terraform, CI/CD, déploiement automatisé |
 
 ---
 
-### 🔄 CI/CD avec GitHub Actions & Ansible
+## 🚀 Projets
 
-Mise en place d'une chaîne de déploiement automatisée :
+> 📌 Les dépôts ci-dessous sont épinglés sur mon profil — chacun contient le code, la configuration et un README détaillant l'architecture.
 
-**GitHub → GitHub Actions → Ansible → Serveur Linux**
+### 🐳 [Infrastructure Docker Swarm](https://github.com/moussa-camara/TON-LIEN-ICI)
+Cluster Docker Swarm avec 1 manager + plusieurs workers, registry privée, Nginx, PHP, MariaDB, Code-server et stockage NFS. Tests de haute disponibilité et scénarios de panne/reprise.
 
-Avec notamment :
+### ☸️ [Cluster K3s](https://github.com/moussa-camara/TON-LIEN-ICI)
+Environnement Kubernetes léger multi-nœuds (control-plane/workers), déploiement de services Nginx/Apache/MariaDB, ConfigMaps, Secrets, manifests YAML.
 
-* Tests automatisés
-* Déploiement distant
-* Ansible
-* SSH
-* Nginx
-* Variables et secrets GitHub
-* Automatisation du déploiement
+### 🏗️ [Infrastructure as Code avec Terraform](https://github.com/moussa-camara/TON-LIEN-ICI)
+Automatisation de la création de VM Debian sous VMware Workstation : variables Terraform, provider VMware, configuration réseau, environnements de lab reproductibles.
 
----
-
-## 📚 Ce que j'apprends actuellement
-
-Je continue à développer mes compétences dans :
-
-* Administration Linux
-* Administration Windows
-* Réseaux et infrastructures
-* Virtualisation
-* Docker & Kubernetes
-* Automatisation avec Ansible et Terraform
-* DevOps / CI-CD
-* Sécurité des infrastructures
-* Cybersécurité
-* RGPD
-* NIS2
+### 🔄 [Pipeline CI/CD — GitHub Actions & Ansible](https://github.com/moussa-camara/TON-LIEN-ICI)
+Chaîne de déploiement automatisée : `GitHub → GitHub Actions → Ansible → Serveur Linux`, avec tests automatisés, secrets GitHub et déploiement distant via SSH/Nginx.
 
 ---
 
-## 🎯 Mon projet professionnel
+## 📚 En cours d'apprentissage
 
-Je souhaite évoluer vers un poste d'**Administrateur Systèmes & Réseaux**, avec une forte sensibilité aux problématiques de **sécurité des infrastructures**.
-
-Je recherche notamment une **alternance à partir de septembre 2026** dans les domaines suivants :
-
-* 🖥️ Administration Systèmes & Réseaux
-* 🌐 Infrastructure IT
-* 🔐 Cybersécurité
-* 🛡️ Sécurité des systèmes et réseaux
-* 🧑‍💻 Support informatique N1/N2
-* 🔎 Sécurité opérationnelle
-
-Je suis mobile en France et particulièrement intéressé par les opportunités dans les **Bouches-du-Rhône et les régions voisines**.
+Administration Windows avancée · Sécurité des infrastructures · Cybersécurité opérationnelle · RGPD & NIS2 · Automatisation avancée Ansible/Terraform
 
 ---
 
 ## 📫 Me contacter
 
-💼 **LinkedIn :** www.linkedin.com/in/moussa-camara-mc
-
-📧 **Email :** moussa.camara@laplateforme.io
-
----
-
-## ⚡ Quelques mots sur moi
-
-Mon parcours professionnel m'a permis de développer des qualités importantes comme la **rigueur, la vigilance, la réactivité et la gestion des situations complexes**.
-
-Aujourd'hui, je mets ces qualités au service de ma reconversion dans l'IT, avec l'objectif de construire des infrastructures **fiables, disponibles et sécurisées**.
+- 💼 LinkedIn : [in/moussa-camara-mc](https://www.linkedin.com/in/moussa-camara-mc/)
+- 📧 Email : moussa.camara@laplateforme.io
+- 📍 Mobile en France, particulièrement dans les Bouches-du-Rhône et régions voisines
 
 ---
 
-⭐ N'hésitez pas à consulter mes dépôts pour découvrir mes différents projets et travaux pratiques.
+<p align="center"><i>⭐ N'hésitez pas à consulter mes dépôts épinglés pour voir le détail de chaque projet.</i></p>
